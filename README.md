@@ -71,11 +71,6 @@ This is a full-stack food delivery web application built using Java, JSP, Hibern
 - Add real-time order tracking.
 - Implement payment gateway integration.
 - Improve restaurant and menu search functionality with filters.
-  
-## Demo Video
-
-Check out a video demonstration of the app in action [here](#).
-
 
 
 ## Contributing
@@ -94,7 +89,3 @@ Check out a video demonstration of the app in action [here](#).
     git push origin feature/YourFeature
     ```
 5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
